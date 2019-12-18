@@ -2,7 +2,7 @@
 
 # simon-game
 
->Test you mental acuity by following the color sequence!
+>Test your mental acuity by following the color sequence!
 
 **Technologies used**
 - <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">HTML5</a>
